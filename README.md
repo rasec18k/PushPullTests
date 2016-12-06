@@ -417,3 +417,4 @@ Tue Dec 06 10:18:09 CST 2016
 testPushPullBothClonedExisting Tue Dec 06 10:21:26 CST 2016
 Tue Dec 06 10:21:29 CST 2016
 Tue Dec 06 10:21:31 CST 2016
+testPushPullBothClonedExisting Tue Dec 06 12:45:06 MST 2016
