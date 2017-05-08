@@ -528,3 +528,4 @@ Thu May 04 12:19:21 CDT 2017
 testPushPullBothClonedExisting Thu May 04 12:41:16 CDT 2017
 Thu May 04 12:41:18 CDT 2017
 Thu May 04 12:41:25 CDT 2017
+testPushPullBothClonedExisting Mon May 08 16:06:36 CDT 2017
