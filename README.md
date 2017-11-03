@@ -242,3 +242,4 @@ Thu Nov 02 12:03:08 CDT 2017
 testPushPullBothClonedExisting Thu Nov 02 14:13:36 CDT 2017
 Thu Nov 02 14:13:39 CDT 2017
 Thu Nov 02 14:13:53 CDT 2017
+testPushPullBothClonedExisting Fri Nov 03 09:40:24 CDT 2017
